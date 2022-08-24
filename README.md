@@ -14,5 +14,6 @@ INSTRUCCIONES
 2. Ejecutar el jar desde cmd con el comando: java -jar nombredearchivo
 3. El archivo de pedido contiene el pedido de los productos, el archivo de materiales contiene 
 los materiales y el archivo catalogo el catalogo de productos.
-
+4. Seleccionar los archivos en el programa y hacer click en Cargar datos.
+5. Luego, se hace click en el algoritmo que se desea probar y los resultados aparecen en una ventana.
 Saludos.
